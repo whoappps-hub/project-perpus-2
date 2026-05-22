@@ -16,7 +16,7 @@
 
                     <span class="badge bg-light text-dark px-3 py-2 mb-4">
 
-                        Create Borrowing Data
+                        Smart Digital Library
 
                     </span>
 
@@ -29,10 +29,7 @@
 
                     <p>
 
-                        Tambahkan data peminjaman buku
-                        ke dalam sistem perpustakaan digital
-                        modern dengan tampilan premium
-                        dan interaktif.
+                        buku ke dalam sistem perpustakaan digital.
 
                     </p>
 

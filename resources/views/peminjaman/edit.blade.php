@@ -16,7 +16,7 @@
 
                     <span class="badge bg-light text-dark px-3 py-2 mb-4">
 
-                        Update Borrowing Data
+                        Smart Digital Library
 
                     </span>
 
@@ -29,9 +29,7 @@
 
                     <p>
 
-                        Update data peminjaman buku
-                        dengan tampilan modern,
-                        clean, dan interaktif.
+                        Update data peminjaman buku.
 
                     </p>
 

@@ -27,18 +27,16 @@
 
             <h1>
 
-                Modern Library
-                Management Dashboard
+            
+                Management Perpustakaan Digital
 
             </h1>
 
             <p>
 
                 Sistem pengelolaan perpustakaan digital
-                modern dengan tampilan premium,
-                dashboard interaktif,
-                log peminjaman,
-                dan visualisasi data buku populer.
+                yang cerdas dan mudah digunakan untuk
+                memudahkan peminjaman buku secara online
 
             </p>
 
@@ -235,7 +233,7 @@
     [
     "title" => "Bumi Manusia",
     "author" => "Pramoedya Ananta Toer",
-    "image" => "https://upload.wikimedia.org/wikipedia/id/5/5e/BumiManusia.jpg"
+    "image" => "https://bukukita.com/babacms/displaybuku/98759_f.jpg"
     ],
 
     [
@@ -247,19 +245,19 @@
     [
     "title" => "Filosofi Teras",
     "author" => "Henry Manampiring",
-    "image" => "https://images.tokopedia.net/img/cache/700/VqbcmM/2021/6/7/11b2a9e3-b2fa-432f-8e9e-4bcffef2a1c6.jpg"
+    "image" => "https://image.gramedia.net/rs:fit:0:0/plain/https://cdn.gramedia.com/uploads/picture_meta/2023/11/27/kjf6cgigkomf6sy9o5qauu.jpg"
     ],
 
     [
     "title" => "Dilan 1990",
     "author" => "Pidi Baiq",
-    "image" => "https://upload.wikimedia.org/wikipedia/id/5/58/Dilan_1990.jpg"
+    "image" => "https://mojokstore.com/wp-content/uploads/2016/11/Dilan-Dia-Adalah-Dilanku-tahun-1990-Pidi-Baiq-front.jpg"
     ],
 
     [
     "title" => "Negeri 5 Menara",
     "author" => "Ahmad Fuadi",
-    "image" => "https://upload.wikimedia.org/wikipedia/id/8/8e/Negeri_5_Menara.jpg"
+    "image" => "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1249749162i/6688121.jpg"
     ],
 
     [
@@ -271,13 +269,13 @@
     [
     "title" => "Pulang",
     "author" => "Tere Liye",
-    "image" => "https://cdn.gramedia.com/uploads/items/9786025734052_pulang.jpg"
+    "image" => "https://image.gramedia.net/rs:fit:0:0/plain/https://cdn.gramedia.com/uploads/items/pulang_tere_liye.jpeg"
     ],
 
     [
     "title" => "Hujan",
     "author" => "Tere Liye",
-    "image" => "https://cdn.gramedia.com/uploads/items/Hujan-New-Cover.jpg"
+    "image" => "https://www.gramedia.com/blog/content/images/2025/01/Hujan.png"
     ],
 
     [
@@ -331,25 +329,25 @@
     [
     "title" => "Cantik Itu Luka",
     "author" => "Eka Kurniawan",
-    "image" => "https://cdn.gramedia.com/uploads/items/Cantik_Itu_Luka.jpg"
+    "image" => "https://static.mizanstore.com/d/img/book/cover/cantik-itu-luka-sc-isbn-lama-eka-kurniawan.jpg"
     ],
 
     [
     "title" => "Laut Bercerita",
     "author" => "Leila S. Chudori",
-    "image" => "https://cdn.gramedia.com/uploads/items/Laut-Bercerita.jpg"
+    "image" => "https://www.gramedia.com/blog/content/images/2020/08/laut-bercerita-leila-s-chudori_gramedia.jpg"
     ],
 
     [
     "title" => "Ayat Ayat Cinta",
     "author" => "Habiburrahman",
-    "image" => "https://upload.wikimedia.org/wikipedia/id/5/56/Ayat-Ayat_Cinta.jpg"
+    "image" => "https://upload.wikimedia.org/wikipedia/id/b/b4/Ayatayatcinta.jpg"
     ],
 
     [
     "title" => "Perahu Kertas",
     "author" => "Dewi Lestari",
-    "image" => "https://upload.wikimedia.org/wikipedia/id/5/5b/Perahu_Kertas.jpg"
+    "image" => "https://upload.wikimedia.org/wikipedia/id/thumb/7/7f/Perahu_Kertas_Sampul.jpg/250px-Perahu_Kertas_Sampul.jpg"
     ],
 
     [
@@ -361,7 +359,7 @@
     [
     "title" => "Inferno",
     "author" => "Dan Brown",
-    "image" => "https://m.media-amazon.com/images/I/91tR9iJ4C7L.jpg"
+    "image" => "https://miro.medium.com/v2/1*-BLLL4-w6g1NKfrl7f1l6A.jpeg"
     ],
 
     [
@@ -373,13 +371,13 @@
     [
     "title" => "Sherlock Holmes",
     "author" => "Arthur Conan Doyle",
-    "image" => "https://m.media-amazon.com/images/I/91oinh0R5DL.jpg"
+    "image" => "https://cdn.gramedia.com/uploads/picture_meta/2023/6/19/hp4eu9cu4xqa8yshmfmb9g.jpg"
     ],
 
     [
     "title" => "To Kill a Mockingbird",
     "author" => "Harper Lee",
-    "image" => "https://m.media-amazon.com/images/I/81OdwZG6lFL.jpg"
+    "image" => "https://m.media-amazon.com/images/I/81O7u0dGaWL._AC_UF1000,1000_QL80_.jpg"
     ],
 
     [
